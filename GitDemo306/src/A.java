@@ -12,7 +12,7 @@ public class A
 		
 		a1.m2();
 		
-	
+	       a1.sum();
 	
 	
 	
@@ -32,6 +32,15 @@ public class A
 	{
 		
 		System.out.println(" M2 of A your program ");
+		
+		
+	}
+	
+	
+	public void sum() 
+	{
+		
+		System.out.println(" Sum of A your program ");
 		
 		
 	}
