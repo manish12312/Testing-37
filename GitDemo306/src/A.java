@@ -10,6 +10,7 @@ public class A
 		A a1=new A();
 		a1.m1();
 		
+		a1.m2();
 		
 	
 	
@@ -27,6 +28,13 @@ public class A
 	}
 	
 	
+	public void m2() 
+	{
+		
+		System.out.println(" M2 of A your program ");
+		
+		
+	}
 	
 	
 	
